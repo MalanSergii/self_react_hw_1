@@ -5,7 +5,7 @@ export const UserProfile = styled.div`
   padding: 30px 0px 0;
   border: 1px solid grey;
   border-radius: 10px;
-  width: 300px;
+  width: 280px;
   /* height: 400px; */
 `;
 
